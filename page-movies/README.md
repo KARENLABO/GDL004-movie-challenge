@@ -14,10 +14,13 @@ Primer prototipo
 
 	### Imagen papel
     
-    <img src="/Components-CSS/img/protiphome.jpg" width="100%" />
-    >Prototipo home de películas
-    <img src="/Components-CSS/img/protiphome2.jpg" width="100%" />
-    >Prototipo lista de peliculas
+    <img src="/Components-CSS/img/protiphome.jpg" width="100%" >
+    
+    > Prototipo home de películas
+    
+    <img src="/Components-CSS/img/protiphome2.jpg" width="100%" >
+    
+    > Prototipo lista de peliculas
     
 
 
@@ -25,9 +28,9 @@ Nuestro podructo final fue el siguiente:
 
 
   
-    ![Vista del Home](src/Components-CSS/img/homefinal.png?raw=true)
-    ![Lista de películas](src/Components-CSS/img/buttonpage.png?raw=true)
-    ![Botones para cambiar de página](src/Components-CSS/img/movies.png?raw=true)
+    <img src="/Components-CSS/img/homefinal.png"  width="100%">
+    <img src="/Components-CSS/img/buttonpage.png" width="100%">
+    <img src="/Components-CSS/img/movies.png" width="100%">
 
     
 
