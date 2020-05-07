@@ -11,7 +11,6 @@ El proyecto comenzó en papel y con una de las encuestas más polémicas en el c
 Primer prototipo 
 
 
-
 ### Prototipo de baja fidelidad
     
      ![Prototipo Home](https://github.com/GeorginaPQ/GDL004-movie-challenge/blob/develop/page-movies/src/Components-CSS/img/protiphome.jpg)
