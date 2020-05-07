@@ -14,9 +14,9 @@ Primer prototipo
 
 	### Imagen papel
     
-    <img src="/Components-CSS/img/protiphome.jpg?raw=true" width="100%" />
+    <img src="/Components-CSS/img/protiphome.jpg" width="100%" />
     >Prototipo home de películas
-    <img src="/Components-CSS/img/protiphome2.jpg?raw=true.png" />
+    <img src="/Components-CSS/img/protiphome2.jpg" width="100%" />
     >Prototipo lista de peliculas
     
 
