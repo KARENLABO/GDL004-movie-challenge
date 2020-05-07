@@ -12,21 +12,20 @@ Primer prototipo
 
 
 
-	### Imagen papel
+### Prototipo de baja fidelidad
     
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/protiphome.jpg?raw=true)
+     ![Prototipo Home](https://github.com/GeorginaPQ/GDL004-movie-challenge/blob/develop/page-movies/src/Components-CSS/img/protiphome.jpg)
+     ![Prototipo lista de películas](https://github.com/GeorginaPQ/GDL004-movie-challenge/blob/develop/page-movies/src/Components-CSS/img/protiphome2.jpg)
+    
 
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/protiphome2.jpg?raw=true.png)
 
-
-
-Nuestro podructo final fue el siguiente:
+### Nuestro podructo final fue el siguiente:
 
 
   
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/homefinal.png?raw=true)
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/buttonpage.png?raw=true)
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/movies.png?raw=true)
+     ![Vista Home](https://github.com/GeorginaPQ/GDL004-movie-challenge/blob/develop/page-movies/src/Components-CSS/img/homefinal.png)
+     ![Lista de películas](https://github.com/GeorginaPQ/GDL004-movie-challenge/blob/develop/page-movies/src/Components-CSS/img/movies.png)
+     ![Botones de cambio de página](https://github.com/GeorginaPQ/GDL004-movie-challenge/blob/develop/page-movies/src/Components-CSS/img/buttonpage.png)
 
     
 
