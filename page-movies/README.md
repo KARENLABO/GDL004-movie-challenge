@@ -14,14 +14,21 @@ Primer prototipo
 
 	### Imagen papel
     
-    ![alt text](http://url/to/img.png)
+    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/protiphome.jpg?raw=true)
 
-Posteriormente se desarrollo el prototipo de alta fidelidad en la herramienta Adobe XD 
+    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/protiphome2.jpg?raw=true.png)
 
-	### Imagen digital 
 
-    ![alt text](http://url/to/img.png)
 
+Nuestro podructo final fue el siguiente:
+
+
+  
+    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/homefinal.png?raw=true)
+    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/buttonpage.png?raw=true)
+    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/movies.png?raw=true)
+
+    
 
 
 El proyecto se elaboro en 3 dias a partir del 4 de Mayo de 2020 , desarrollado por un equipo de 5 personas las cuales trabajaron de manera remota en un 100% . La planeación se llevo acabo por medio de la herramienta Trello , dividido en pequeñas tareas  las cuales la  mayoría se llevaron acabo en pair programming.Las tecnologías utilizadas son React, Boostrap, Firebase, react-router 
