@@ -14,10 +14,11 @@ Primer prototipo
 
 	### Imagen papel
     
-    ![Prototipo del Home](src/Components-CSS/img/protiphome.jpg?raw=true)
-
-    ![Lista de películas](src/Components-CSS/img/protiphome2.jpg?raw=true.png)
-
+    <img src="/Components-CSS/img/protiphome.jpg?raw=true" width="100%" />
+    >Prototipo home de películas
+    <img src="/Components-CSS/img/protiphome2.jpg?raw=true.png" />
+    >Prototipo lista de peliculas
+    
 
 
 Nuestro podructo final fue el siguiente:
