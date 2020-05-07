@@ -14,9 +14,9 @@ Primer prototipo
 
 	### Imagen papel
     
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/protiphome.jpg?raw=true)
+    ![Prototipo del Home](src/Components-CSS/img/protiphome.jpg?raw=true)
 
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/protiphome2.jpg?raw=true.png)
+    ![Lista de películas](src/Components-CSS/img/protiphome2.jpg?raw=true.png)
 
 
 
@@ -24,9 +24,9 @@ Nuestro podructo final fue el siguiente:
 
 
   
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/homefinal.png?raw=true)
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/buttonpage.png?raw=true)
-    ![alt text](https://github.com/KARENLABO/GDL004-movie-challenge/blob/master/page-movies/src/Components-CSS/img/movies.png?raw=true)
+    ![Vista del Home](src/Components-CSS/img/homefinal.png?raw=true)
+    ![Lista de películas](src/Components-CSS/img/buttonpage.png?raw=true)
+    ![Botones para cambiar de página](src/Components-CSS/img/movies.png?raw=true)
 
     
 
